@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.4:1", "", "Guidelines", "EARoot/EA4/EA37.htm", "188.png", "111", "0", "", "Custom diagram0","{82D9143B-118B-43a7-A288-B083B2E2A85B}");
+tocTab[tocTab.length] = new Array("0.4:2", "", "«Pool» Role", "EARoot/EA4/EA58.htm", "116.png", "1340", "0", "", "ActivityPartition0","{195DDFC3-56B7-47d3-9F32-2546FDBB5159}");
+tocTab[tocTab.length] = new Array("0.4:3", "", "«Lane» Actor / Stakeholder / Instantiated system", "EARoot/EA4/EA65.htm", "116.png", "1341", "1340", "", "ActivityPartition0","{1687EDB1-C766-449e-9CE1-4C01ACBDE559}");
+tocTab[tocTab.length] = new Array("0.4.1", "1", "Roles", "EARoot/EA4/EA60.htm", "4.png", "", "", "{E9147699-D991-40ca-9DAC-8DC03075B22D}", "Package");
+tocTab[tocTab.length] = new Array("0.4.2", "1", "Information Viewpoint", "EARoot/EA4/EA61.htm", "4.png", "", "", "{D065D1B6-32EF-4825-B194-8D2A315ECFA4}", "Package");
+tocTab[tocTab.length] = new Array("0.4.3", "1", "Functional View", "EARoot/EA4/EA62.htm", "4.png", "", "", "{E9F0D05D-2066-4c8c-8F45-DB18BBEE7D99}", "Package");
+tocTab[tocTab.length] = new Array("0.4.4", "1", "Process View", "EARoot/EA4/EA63.htm", "4.png", "", "", "{B7F16958-7D40-40cd-AFCC-5152E86F5ABA}", "Package");
+tocTab[tocTab.length] = new Array("0.4.5", "1", "Resilience Viewpoint", "EARoot/EA4/EA64.htm", "4.png", "", "", "{140A7E73-3018-4e9b-8BD7-6B4DE89A0821}", "Package");

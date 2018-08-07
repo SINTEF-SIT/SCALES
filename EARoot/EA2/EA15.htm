@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Introduction</title>
+<link href="../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA16.png" usemap="#EA16" border="0" />
+
+<MAP NAME="EA16">
+<area shape="rect" coords="17,993,167,1013" href="http://www.its.sintef9013.com/SCALES/D1_2/InitialWebToolFramework/SCALESDiagramsReport.pdf" target="_top">
+<area shape="rect" coords="46,509,196,529" href="../EA9/EA614.htm" target="_self">
+<area shape="rect" coords="46,460,278,482" href="../EA8/EA586.htm" target="_self">
+<area shape="rect" coords="46,409,196,429" href="../EA7/EA318.htm" target="_self">
+<area shape="rect" coords="46,361,270,383" href="../EA6/EA215.htm" target="_self">
+<area shape="rect" coords="46,341,196,361" href="../EA5/EA148.htm" target="_self">
+<area shape="rect" coords="10,10,250,37" href="EA18.htm" target="_self">
+<area shape="rect" coords="46,899,299,925" href="../EA10/EA1/EA670.htm" target="_self">
+<area shape="rect" coords="176,1160,264,1191" href="http://creativecommons.org/licenses/by/4.0/" target="_top">
+<area shape="rect" coords="237,1123,387,1143" href="http://creativecommons.org/licenses/by/4.0/" target="_top">
+<area shape="rect" coords="46,604,261,626" href="../EA4/EA37.htm" target="_self">
+<area shape="rect" coords="22,1070,172,1092" href="../EA3/EA30.htm" target="_self">
+<area shape="rect" coords="10,81,712,1147" href="EA17.htm" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">Introduction : Custom diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">23.05.2014 11:33:03</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">01.07.2014 09:04:55</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">aven</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{509DD520-195F-4ddb-8C1B-07B56E3D37F5}</td>
+		</tr>
+	</table>
+	
+</div>
+ 
+</body>
+</html>

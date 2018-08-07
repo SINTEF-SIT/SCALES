@@ -1,0 +1,13 @@
+tocTab[tocTab.length] = new Array("0.8:1", "", "Information View", "EARoot/EA8/EA586.htm", "188.png", "121", "0", "", "Custom diagram0","{28CDF18C-0345-4614-959C-9FC163503308}");
+tocTab[tocTab.length] = new Array("0.8:2", "", "«Document» Information Exchange (Arrival-Landing) EATMA", "EARoot/EA8/EA590.htm", "82.png", "1351", "0", "", "Artifact0","{AD0C555D-26BB-4bff-BB47-94C905A5F482}");
+tocTab[tocTab.length] = new Array("0.8.1", "1", "Take-off clearance", "EARoot/EA8/EA591.htm", "4.png", "", "", "{EDBE67E6-180C-4e30-83EE-D8E9C09C1446}", "Package");
+tocTab[tocTab.length] = new Array("0.8.2", "1", "Take-off instruction", "EARoot/EA8/EA592.htm", "4.png", "", "", "{A965C9E7-6854-479e-90CB-4B7DE755811D}", "Package");
+tocTab[tocTab.length] = new Array("0.8.3", "1", "ATIS", "EARoot/EA8/EA593.htm", "4.png", "", "", "{E6FF6F6E-EC14-4150-B0CF-E2BE0ECCEAAD}", "Package");
+tocTab[tocTab.length] = new Array("0.8.4", "", "ACAS information", "EARoot/EA8/EA594.htm", "4.png", "", "", "{5310F38C-2FAB-49f8-806F-5CF9A4242B65}", "Package");
+tocTab[tocTab.length] = new Array("0.8.5", "", "Acknowledgement of frequency change", "EARoot/EA8/EA595.htm", "4.png", "", "", "{6DD7497E-4583-4bc3-B5FF-0F2B83C332DC}", "Package");
+tocTab[tocTab.length] = new Array("0.8.6", "", "Aircraft ID and altitude information", "EARoot/EA8/EA596.htm", "4.png", "", "", "{DECFE918-B784-4b37-8367-27DF5C4F8BED}", "Package");
+tocTab[tocTab.length] = new Array("0.8.7", "", "Approach clearance", "EARoot/EA8/EA597.htm", "4.png", "", "", "{CA469A58-D677-4d64-B03A-183F67A9C1EA}", "Package");
+tocTab[tocTab.length] = new Array("0.8.8", "1", "Go-around instruction", "EARoot/EA8/EA598.htm", "4.png", "", "", "{E3AA8600-B721-4f3f-B4E5-D1BA352E96CD}", "Package");
+tocTab[tocTab.length] = new Array("0.8.9", "", "Landing clearance", "EARoot/EA8/EA599.htm", "4.png", "", "", "{8A1CBA7D-31B7-4313-B6E2-DBA0CCA206BA}", "Package");
+tocTab[tocTab.length] = new Array("0.8.10", "", "Terrain information", "EARoot/EA8/EA600.htm", "4.png", "", "", "{87C0A2DD-B27F-485b-AE71-AA0979FB92D4}", "Package");
+tocTab[tocTab.length] = new Array("0.8.11", "", "Weather information", "EARoot/EA8/EA601.htm", "4.png", "", "", "{A6F0EB6E-3A63-4d31-9FEA-05C0F64C20C4}", "Package");

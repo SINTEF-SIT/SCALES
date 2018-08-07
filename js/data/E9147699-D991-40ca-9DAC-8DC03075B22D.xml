@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.4.1:1", "", "Roles", "EARoot/EA4/EA1/EA66.htm", "188.png", "114", "0", "", "Custom diagram0","{A71AE760-8B8D-438a-AFAC-60A0E67F67AE}");
+tocTab[tocTab.length] = new Array("0.4.1:2", "", "Actor / Stakeholder", "EARoot/EA4/EA1/EA69.htm", "6.png", "1327", "0", "", "Actor0","{EC3B5338-DB14-4ba9-8574-1E5413E436B4}");
+tocTab[tocTab.length] = new Array("0.4.1:3", "", "Actor / Stakeholder", "EARoot/EA4/EA1/EA70.htm", "6.png", "1328", "0", "", "Actor0","{E4B7D4FE-2AF2-4ceb-9919-AF8C47A368AD}");
+tocTab[tocTab.length] = new Array("0.4.1:4", "", "Human Role", "EARoot/EA4/EA1/EA71.htm", "6.png", "1324", "0", "", "Actor0","{6DC311E9-BD9C-472c-88BC-DA027979DA98}");
+tocTab[tocTab.length] = new Array("0.4.1:5", "", "Specialized (Sub) Role", "EARoot/EA4/EA1/EA72.htm", "6.png", "1326", "0", "", "Actor0","{6161EF86-AC08-46b0-8D21-FEC245008233}");
+tocTab[tocTab.length] = new Array("0.4.1:6", "", "Specialized (Sub) System Role", "EARoot/EA4/EA1/EA73.htm", "10.png", "1334", "0", "", "Component0","{354C75D9-20EA-4397-9FF8-48F64861B714}");
+tocTab[tocTab.length] = new Array("0.4.1:7", "", "Specialized (Sub) System Role", "EARoot/EA4/EA1/EA74.htm", "10.png", "1333", "0", "", "Component0","{DBE447C9-25E7-4f1f-906D-8A22A30873F1}");
+tocTab[tocTab.length] = new Array("0.4.1:8", "", "System Role", "EARoot/EA4/EA1/EA75.htm", "10.png", "1325", "0", "", "Component0","{D8A36627-D150-4236-B5DE-8E39F5D3231A}");

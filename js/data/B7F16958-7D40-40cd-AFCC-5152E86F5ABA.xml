@@ -1,0 +1,16 @@
+tocTab[tocTab.length] = new Array("0.4.4:1", "", "Presentations", "EARoot/EA4/EA4/EA98.htm", "189.png", "31", "0", "", "Analysis diagram0","{63D19CF9-1FA7-41c2-B5C1-D0CDC33B37A9}");
+tocTab[tocTab.length] = new Array("0.4.4:2", "", "«Gateway» ", "EARoot/EA4/EA4/EA102.htm", "56.png", "356", "0", "", "Decision0","{3E9F661D-9295-4952-B981-E97495FEF987}");
+tocTab[tocTab.length] = new Array("0.4.4:3", "", "«Pool» Role", "EARoot/EA4/EA4/EA107.htm", "116.png", "341", "0", "", "ActivityPartition0","{F202A547-0842-42cd-BBE3-9A8E1626EE71}");
+tocTab[tocTab.length] = new Array("0.4.4:4", "", "«Pool» Role 2", "EARoot/EA4/EA4/EA108.htm", "116.png", "342", "0", "", "ActivityPartition0","{0A7972A1-063F-40f4-A977-2A7C32B08838}");
+tocTab[tocTab.length] = new Array("0.4.4:5", "", "«Gateway» ", "EARoot/EA4/EA4/EA109.htm", "56.png", "349", "341", "", "Decision0","{C9C9D5CF-156D-480b-BBD5-E7DE8B2B6F20}");
+tocTab[tocTab.length] = new Array("0.4.4:6", "", "«Gateway» ", "EARoot/EA4/EA4/EA113.htm", "56.png", "346", "341", "", "Decision0","{A0B891A1-B2DE-4811-B594-6EAF45550C5F}");
+tocTab[tocTab.length] = new Array("0.4.4:7", "", "«Activity» Activity (Receive)", "EARoot/EA4/EA4/EA114.htm", "21.png", "348", "341", "", "Activity0","{C2949856-C0AC-4210-9E10-CC8DDDA89EA3}");
+tocTab[tocTab.length] = new Array("0.4.4:8", "", "«Activity» Activity (User)", "EARoot/EA4/EA4/EA115.htm", "21.png", "345", "341", "", "Activity0","{BC8E8326-CA21-45f9-866B-F3390A298341}");
+tocTab[tocTab.length] = new Array("0.4.4:9", "", "«Activity» Activity (User)", "EARoot/EA4/EA4/EA116.htm", "21.png", "347", "341", "", "Activity0","{655B2421-2126-43a9-8FCF-3377E1B2BF77}");
+tocTab[tocTab.length] = new Array("0.4.4:10", "", "«EndEvent» Process end", "EARoot/EA4/EA4/EA117.htm", "24.png", "344", "341", "", "Event0","{35599E24-5EB3-4e4f-A042-3F5B1C70E3FE}");
+tocTab[tocTab.length] = new Array("0.4.4:11", "", "«StartEvent» Process start", "EARoot/EA4/EA4/EA118.htm", "24.png", "343", "341", "", "Event0","{577D4977-2DA3-4164-AD79-AE28BA40341C}");
+tocTab[tocTab.length] = new Array("0.4.4:12", "", "«Activity» Activity (Send)", "EARoot/EA4/EA4/EA120.htm", "21.png", "352", "342", "", "Activity0","{D2BF3F41-6E80-4ac7-AB56-BFB10985FBD1}");
+tocTab[tocTab.length] = new Array("0.4.4:13", "", "«Activity» Activity (User)", "EARoot/EA4/EA4/EA121.htm", "21.png", "353", "342", "", "Activity0","{1DBB3764-4636-4d82-9D26-49F6B9F5A2F0}");
+tocTab[tocTab.length] = new Array("0.4.4:14", "", "«EndEvent» Process end", "EARoot/EA4/EA4/EA122.htm", "24.png", "355", "342", "", "Event0","{63A721DA-2683-448a-93CD-A7E14CFD5687}");
+tocTab[tocTab.length] = new Array("0.4.4:15", "", "«StartEvent» Process start", "EARoot/EA4/EA4/EA123.htm", "24.png", "350", "342", "", "Event0","{81BC648A-F268-48e7-B05A-558698ABEAAF}");
+tocTab[tocTab.length] = new Array("0.4.4:16", "", "«Gateway» Send message?", "EARoot/EA4/EA4/EA124.htm", "56.png", "351", "342", "", "Decision0","{D99F267B-F474-409c-BD43-2DE3D49AA290}");
